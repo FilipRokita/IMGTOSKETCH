@@ -18,7 +18,7 @@ python3 IMGTOSKETCH.py
 3. Output will be in the script directory
 
 # Legal
-Developer assume no liability and are not responsible for any misuse or damage caused by timberCheat. Only use for educational purposes! Program was invented to show python capabilities.
+Developer assume no liability and are not responsible for any misuse or damage caused by IMGTOSKETC. Only use for educational purposes! Program was invented to show python capabilities.
 
 # Author
 Filip Rokita<br/>
