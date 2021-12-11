@@ -10,16 +10,9 @@ pip install opencv-python
 ```
 
 # Usage
-1. Run IMGTOSKETCH by using:
-```
-python3 IMGTOSKETCH.py
-```
+1. Run IMGTOSKETCH
 2. Input image name (must be in the script directory) and click enter
 3. Output will be in the script directory
 
 # Legal
 Developer assume no liability and is not responsible for any misuse or damage caused by IMGTOSKETCH. Only use for educational purposes! Program was invented to show python capabilities.
-
-# Author
-Filip Rokita<br/>
-www.filiprokita.com
